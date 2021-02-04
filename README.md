@@ -4,14 +4,15 @@ Sweetuu is an Advance Shell which can be used to achieve RCE easily through ```L
 # Usage
 ```----( FOR LFI )-----------------------```
 
-use [sweetuu.php](https://github.com/cspshivam/sweetuu/blob/main/sweetuu.php)
+Use [sweetuu.php](https://github.com/cspshivam/sweetuu/blob/main/sweetuu.php)
 
 
 ```----( FOR RFI )-----------------------```
 
-use [sweetuu](https://github.com/cspshivam/sweetuu/blob/main/sweetuu)
+Use [sweetuu](https://github.com/cspshivam/sweetuu/blob/main/sweetuu)
 
-FOLLOW ME
+
+# FOLLOW ME
 * [Twitter](https://www.twitter.com/iamshivamz)
 * [Instagram](https://www.instagram.com/iamshivamz)
 * [Linkedin](https://www.linkedin.com/in/iamshivamz)
